@@ -1,3 +1,3 @@
 # _floOoo_code
 
-initial analysis for Ore and Neurofusion
+initial analysis for Ore [Neurofusion]
